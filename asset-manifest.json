@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Dogs-App/static/css/main.32b7ccdf.css",
+    "main.js": "/Dogs-App/static/js/main.8312f124.js",
+    "static/css/683.1144107f.chunk.css": "/Dogs-App/static/css/683.1144107f.chunk.css",
+    "static/js/683.1814e7a0.chunk.js": "/Dogs-App/static/js/683.1814e7a0.chunk.js",
+    "static/js/41.6873d56d.chunk.js": "/Dogs-App/static/js/41.6873d56d.chunk.js",
+    "static/media/login.jpg": "/Dogs-App/static/media/login.07d71f5b9d5714e556b0.jpg",
+    "static/media/enviar.svg": "/Dogs-App/static/media/enviar.20065f33ec796db05585f759dda99533.svg",
+    "static/media/sair.svg": "/Dogs-App/static/media/sair.259825deec01e800bb4ffc4d3a35bf0e.svg",
+    "static/media/visualizacao-black.svg": "/Dogs-App/static/media/visualizacao-black.0f2da37d61962ce6f4fa.svg",
+    "static/media/visualizacao.svg": "/Dogs-App/static/media/visualizacao.2b7a1329c4ba65ad0d25.svg",
+    "index.html": "/Dogs-App/index.html",
+    "static/media/feed.svg": "/Dogs-App/static/media/feed.3ea0ca1bdda9ddcfd114bf5005554619.svg",
+    "static/media/usuario.svg": "/Dogs-App/static/media/usuario.cd5f61416d85b34187dc.svg",
+    "static/media/dogs-footer.svg": "/Dogs-App/static/media/dogs-footer.7fa9a2c46cd7d0582a2eac6cde92d56b.svg",
+    "static/media/dogs.svg": "/Dogs-App/static/media/dogs.7db224df682c9cc8380ca3aa13282a6b.svg",
+    "static/media/estatisticas.svg": "/Dogs-App/static/media/estatisticas.c828f8cf23e1f606e5d7919b6110f8dd.svg",
+    "static/media/adicionar.svg": "/Dogs-App/static/media/adicionar.9ab4633e41e9bce7de3d0cf1733a3896.svg",
+    "main.32b7ccdf.css.map": "/Dogs-App/static/css/main.32b7ccdf.css.map",
+    "main.8312f124.js.map": "/Dogs-App/static/js/main.8312f124.js.map",
+    "683.1144107f.chunk.css.map": "/Dogs-App/static/css/683.1144107f.chunk.css.map",
+    "683.1814e7a0.chunk.js.map": "/Dogs-App/static/js/683.1814e7a0.chunk.js.map",
+    "41.6873d56d.chunk.js.map": "/Dogs-App/static/js/41.6873d56d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32b7ccdf.css",
+    "static/js/main.8312f124.js"
+  ]
+}
